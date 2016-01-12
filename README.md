@@ -1,6 +1,6 @@
 # simplon_semaine7
 
-Ce repository contient tous les exercices demandés pour valider la SEMAINE 6 !
+Ce repository contient tous les exercices demandés pour valider la SEMAINE 7 !
 
 ##Exercices
 
